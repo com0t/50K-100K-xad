@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'jquery-serializejson'), 'version' => 'b6b4fccea7fc19d92a2bbb32d2ae1248');

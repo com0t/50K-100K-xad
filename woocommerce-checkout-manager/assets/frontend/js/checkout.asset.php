@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'selectWoo'), 'version' => 'c77d9a8d87e70175e97e8b7144796b9b');
